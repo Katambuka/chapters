@@ -20,17 +20,17 @@ main {
 	margin: 1rem auto;
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	padding: 1rem;
-	background-color: #ddd;
+	background-color: rgba(226, 48, 236, 0.1);
 	display: flex;
 	flex-direction: column;
-    border-radius: 10px;
+  border-radius: 10px;
 }
 li button {
     font-size: 12px;
     margin-left: 20px;
     color: black;
     border-radius: 10px;
-    background-color: yellow;
+    background-color: rgb(224, 26, 75);
 }
 .listbutton{
     font-size: 12px;
@@ -56,8 +56,11 @@ button {
     background-color: cyan;
 }
 
-.list {
-	padding: 0.5rem;
+h1{
+  margin: 20px;
+  font-family: 'Tangerine', serif;
+  font-size: 45px;
+  text-shadow: 4px 7px 7px #aaa;
 }
 
 ul {
